@@ -1,4 +1,4 @@
-**Part 1**
+# Part 1
 Below are two screenshots of my code used for the ChatServer.
 ![Image](firsthalfofcode.png)
 ![Image](secondhalfofcode.png)
@@ -10,12 +10,12 @@ Here is another screenshot of the webpage after adding in a query that tells the
 ![Image](picture1usingexample.png)
 ![Image](picture2usingexample.png)
 
-**Part 2**
+# Part 2
 Below is the absolute path to the private key for my SSH key to log into `ieng6`. In the same screenshot you can also see the public key labeled as "id_rsa.pub". This was done in a terminal in VSCode on my own personal computer.
 ![Image](showprivkeyusinglscommand.png)
 
 Below is the screenshot that shows me logging into `ieng6` without using my password, but instead using the SSH key I generated in the previous screenshot.
 ![Image](terminalinteractionloginnopassword.png)
 
-**Part 3**
+# Part 3
 This week in lab was really interesting. It was interesting to learn how to access UCSD computers remotely and how to manipulate code to produce websites that are run either on local or remote servers. It was also interesting to learn about ports and what they provide as a tool for people in computer science.

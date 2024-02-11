@@ -11,8 +11,11 @@ Here is another screenshot of the webpage after adding in a query that tells the
 ![Image](picture2usingexample.png)
 
 # Part 2
-Below is the absolute path to the private key for my SSH key to log into `ieng6`. In the same screenshot you can also see the public key labeled as "id_rsa.pub". This was done in a terminal in VSCode on my own personal computer.
+Below is the absolute path to the private key for my SSH key to log into `ieng6`. In the same screenshot you can also see the public key labeled as "id_rsa.pub" and the private key is "id_rsa". This was done in a terminal in VSCode on my own personal computer.
 ![Image](showprivkeyusinglscommand.png)
+
+Below is the absolute path to the keys on the `ieng6` remote computer. As previously stated, the public key is labeled as "id_rsa.pub" and the private key is "id_rsa". This was done in a terminal in VSCode on my own personal computer.
+![Image](useieng6toshowkeys.png)
 
 Below is the screenshot that shows me logging into `ieng6` without using my password, but instead using the SSH key I generated in the previous screenshot.
 ![Image](terminalinteractionloginnopassword.png)

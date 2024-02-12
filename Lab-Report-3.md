@@ -40,6 +40,7 @@ static void reverseInPlace(int[] arr) {
 }
 ```
 The main changes in the new code is that I changed the for loop to iterate through only half of the array and introduced a new variable called `temp` that would store the first half of elements. After storing the first half of elements the for loop will proceed to move the back half of the elements to the front and the `temp` elements to the back.
+
 -----------------------------------------------------------------------------------------------------------
 # Part 2
 For this portion of the report I chose to research more about the `grep` command. I think that it was the most versatile command throughout the lab.

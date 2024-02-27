@@ -1,4 +1,3 @@
-For the lab report this week, reproduce the task from above on your own. For each numbered step starting right after the timer (so steps 4-9), take a screenshot, and write down exactly which keys you pressed to get to that step. For special characters like <enter> or <tab>, write them in angle brackets with code formatting. Then, summarize the commands you ran and what the effect of those keypresses were.
 # Step 4 - Log into ieng6
 In the screenshot below is a simple command that I ran to log into UCSD's remote computer for the lab. Additionally, normally it would prompt me to input my password to login however with the use of SSH keys I am able to log in without it prompting me to enter my password. I did this by using this command, `ssh bjly@ieng6-202.ucsd.edu` then pressing `<enter>` to run the command.
 ![Image](loggingintoieng.png)

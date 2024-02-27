@@ -20,5 +20,6 @@ After quitting the file I ran the command `bash test.sh` by typing it in then pr
 ![Image](alltestspassed.png)
 
 # Step 9 - Commit and push the resulting change to your Github account (you can pick any commit message!)
+After fixing the `ListExamples.java` file to pass all test cases I needed to reflect those changes on my GitHub repository. To do so, I first began with typing in the command `git add ListExamples.java` and pressed `<enter>` to run the command. This added the ListExamples.java to repository. Next I committed the changes and added a message that reflected the changes I made with the command `git commit -m "Fixed ListExamples.java"` and pressed `<enter>` to run the commands. Lastly I typed in `git push` and pressed `<enter>` to push the changes and message to the repository.
 ![Image](actualgitpushandcommitchanges.png)
 

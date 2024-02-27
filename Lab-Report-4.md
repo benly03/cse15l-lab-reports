@@ -13,6 +13,7 @@ After cloning into the repository, I changed my working directory to be `lab7` t
 
 # Step 7 - Edit the code file to fix the failing test
 In the screenshot below I used the command `vim ListExamples.java` and pressed `<enter>` to access the java file in vim. Now with access to the file I am able to edit the `.java` file and fix any errors that was causing the test case to fail. In order to fix the error I had to press my `<down>` key 43 times then my `<right>` key 11 times. This put me at the typo in the code that was causing the error. To fix the error, I pressed "x" to delete the typo, then "i" to insert "2". This effectively changed "index1" to "index2", thus fixing the code. To save changes I then pressed `esc` to exit and go to normal mode. I then pressed ":wq" and `<enter>` to save changes and quit the file. 
+![Image](usingvim.png)
 ![Image](fixedcodeportion.png)
  
 # Step 8 - Run the tests, demonstrating that they now succeed
